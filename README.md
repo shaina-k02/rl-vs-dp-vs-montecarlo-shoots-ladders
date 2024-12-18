@@ -1,4 +1,3 @@
-# RL_project
 # Reinforcement Learning
 
 In this project, we are solving a variant of "Shoots and Ladders" to compare the algorithmic effectiveness of the following methods:
