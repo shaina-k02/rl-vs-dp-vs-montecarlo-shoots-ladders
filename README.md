@@ -35,5 +35,3 @@ Compute:
 dice to select.   The policy will map states to dice choices.
 2. Value V(s):  this is the value of being in state s -- the sum of future rewards when starting in state s.    This will be the negative value of the average number of moves it will take a player to reach the goal from that state s.  
 3. Values Q(s,a):  Same as V(s) except we also specify one of the dice color choices as an action.
-
-##Monte Carlo Simulation#
